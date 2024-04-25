@@ -11,6 +11,7 @@ export default defineConfig({
   logo: "/logo_alpe_4.png",
   description: "爆裂小队速查工具",
   base: "/sbwiki/",
+  appearance: "dark",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo_alpe_9_c.png",
