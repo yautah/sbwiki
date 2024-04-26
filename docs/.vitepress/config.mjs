@@ -14,7 +14,7 @@ export default defineConfig({
   appearance: "dark",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/logo_alpe_9_c.png",
+    logo: "/logo.png",
     siteTitle: "爆裂小队速查",
     nav: [
       { text: "首页", link: "/" },
