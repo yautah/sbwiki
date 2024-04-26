@@ -8,7 +8,7 @@ export default defineConfig({
   }]],
   lang: "zh-CN",
   title: "爆裂小队速查",
-  logo: "/logo_alpe_4.png",
+  logo: "/logo.png",
   description: "爆裂小队速查工具",
   base: "/sbwiki/",
   appearance: "dark",

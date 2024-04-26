@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a2 as d}from"./chunks/framework.CMAkRvR1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sb/test.md","filePath":"sb/test.md"}'),s={name:"sb/test.md"},n=d("",2),r=[n];function i(o,h,l,_,c,b){return a(),e("div",null,r)}const T=t(s,[["render",i]]);export{m as __pageData,T as default};

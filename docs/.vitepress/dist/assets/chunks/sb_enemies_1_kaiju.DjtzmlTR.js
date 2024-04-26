@@ -1,0 +1,1 @@
+const s="/sbwiki/assets/sb_enemies_1_chest-menace.CZx9F_x9.png",e="/sbwiki/assets/sb_enemies_1_mega-mole.BEQyhWtr.png",_="/sbwiki/assets/sb_enemies_1_tree-giant.CGKe3Awp.png",i="/sbwiki/assets/sb_enemies_1_kaiju.CEI63q5P.png";export{s as _,e as a,_ as b,i as c};

@@ -7,13 +7,12 @@ export default defineConfig({
   resolve: {
     alias: {
       // Define aliases for your asset paths
-      '@images': '/alpe/assets',
-      '@styles': '/alpe/styles',
+      "@images": "/sbwiki/assets",
+      "@styles": "/sbwiki/styles",
       // Add more aliases as needed
     },
   },
-  plugins: [
-  ],
+  plugins: [],
   build: {
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"),
