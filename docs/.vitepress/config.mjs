@@ -29,7 +29,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "地图",
+        text: "世界",
         link: "/sb/maps",
         items: [
           { text: "绿野世界", link: "/sb/maps_w1" },
@@ -40,7 +40,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "部队",
+        text: "小队",
         link: "/sb/troops",
         items: [
           { text: "信息卡片", link: "/sb/troops_cards" },
