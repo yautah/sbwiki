@@ -1,141 +1,140 @@
 ---
-outline: understand your surroundings
+outline: 理解你的周围环境
 ---
 
-# Squad Busters Troops
+# 爆裂小队角色
 
-This is a list of all the characters available for your squad, sorted by DPS in descending order.
+这是一个按照DPS降序排列的、可供你的小队选择的角色列表。
 
 > [!NOTE]
-> DPS is important, but just a factor in the strength of a unit. This doesn't include very relevant details like range, area damage, abilities...
+> DPS很重要，但只是一个单位强度的因素。这不包括诸如射程、范围伤害、技能等非常相关的细节...
+
+____
+
+以下每个部队卡片以以下方式展示基本属性：
+
+![部队卡片演示](/assets/sb_character_card_demo.png)
+
+- **[HP] 生命值**：部队的健康值。
+- **[DPS] 每秒伤害**：部队在一秒内平均造成的伤害。
+- **[HT] 攻击时间**：每次攻击所需的平均时间。
+- **[DPH] 每次攻击伤害**：每次攻击造成的伤害。
 
 ____
 
 
-Each of the following troop cards display basic stats in the following way:
+## 1. 蛟龙母鸡
 
-![Troop Card Demo](/assets/sb_character_card_demo.png)
+![蛟龙母鸡](/assets/sb_character_card_1_mega-chicken.png)
 
-- **[HP] Hit Points**: health of a troop.
-- **[DPS] Damage Per Second**: average damage dealt by a troop in a single second.
-- **[HT] Hit Time**: average time needed for each attack.
-- **[DPH] Damage Per Hit**: damage dealt with each attack.
+## 2. 虎王普里莫
 
-____
+![虎王普里莫](/assets/sb_character_card_1_mega-el-primo.png)
 
+## 3. 潘妮
 
-## 1. Mega Chicken
+![潘妮](/assets/sb_character_card_1_penny.png)
 
-![Mega Chicken](/assets/sb_character_card_1_mega-chicken.png)
+## 4. 女巫
 
-## 2. Mega El Primo
+![女巫](/assets/sb_character_card_1_witch.png)
 
-![Mega El Primo](/assets/sb_character_card_1_mega-el-primo.png)
+## 5. 柯尔特
 
-## 3. Penny
+![柯尔特](/assets/sb_character_card_1_colt.png)
 
-![Penny](/assets/sb_character_card_1_penny.png)
+## 6. 贝亚
 
-## 4. Witch
+![贝亚](/assets/sb_character_card_1_bea.png)
 
-![Witch](/assets/sb_character_card_1_witch.png)
+## 7. 麦克斯
 
-## 5. Colt
+![麦克斯](/assets/sb_character_card_1_max.png)
 
-![Colt](/assets/sb_character_card_1_colt.png)
+## 8. 母鸡
 
-## 6. Bea
+![母鸡](/assets/sb_character_card_1_chicken.png)
 
-![Bea](/assets/sb_character_card_1_bea.png)
+## 9. 莫提斯
 
-## 7. Max
+![莫提斯](/assets/sb_character_card_1_mortis.png)
 
-![Max](/assets/sb_character_card_1_max.png)
+## 10. 帕姆
 
-## 8. Chicken
+![帕姆](/assets/sb_character_card_1_pam.png)
 
-![Chicken](/assets/sb_character_card_1_chicken.png)
+## 11. 哥布林
 
-## 9. Mortis
+![哥布林](/assets/sb_character_card_1_goblin.png)
 
-![Mortis](/assets/sb_character_card_1_mortis.png)
+## 12. 弓箭女皇
 
-## 10. Pam
+![弓箭女皇](/assets/sb_character_card_1_archer-queen.png)
 
-![Pam](/assets/sb_character_card_1_pam.png)
+## 13. 野猪骑士
 
-## 11. Goblin
+![野猪骑士](/assets/sb_character_card_1_hog-rider.png)
 
-![Goblin](/assets/sb_character_card_1_goblin.png)
+## 14. 雪莉
 
-## 12. Archer Queen
+![雪莉](/assets/sb_character_card_1_shelly.png)
 
-![Archer Queen](/assets/sb_character_card_1_archer-queen.png)
+## 15. 野蛮人之王
 
-## 13. Hog Rider
+![野蛮人之王](/assets/sb_character_card_1_barbarian-king.png)
 
-![Hog Rider](/assets/sb_character_card_1_hog-rider.png)
+## 16. 野蛮人
 
-## 14. Shelly
+![野蛮人](/assets/sb_character_card_1_barbarian.png)
 
-![Shelly](/assets/sb_character_card_1_shelly.png)
+## 17. 阿渤
 
-## 15. Barbarian King
+![阿渤](/assets/sb_character_card_1_bo.png)
 
-![Barbarian King](/assets/sb_character_card_1_barbarian-king.png)
+## 18. 重机枪手
 
-## 16. Barbarian
+![重机枪手](/assets/sb_character_card_1_heavy.png)
 
-![Barbarian](/assets/sb_character_card_1_barbarian.png)
+## 19. 医师
 
-## 17. Bo
+![医师](/assets/sb_character_card_1_medic.png)
 
-![Bo](/assets/sb_character_card_1_bo.png)
+## 20. 坦克驾驶员
 
-## 18. Heavy
+![坦克驾驶员](/assets/sb_character_card_1_tank-girl.png)
 
-![Heavy](/assets/sb_character_card_1_heavy.png)
+## 21. 梅维斯
 
-## 19. Medic
+![梅维斯](/assets/sb_character_card_1_mavis.png)
 
-![Medic](/assets/sb_character_card_1_medic.png)
+## 22. 法师
 
-## 20. Tank Girl
+![法师](/assets/sb_character_card_1_wizard.png)
 
-![Tank Girl](/assets/sb_character_card_1_tank-girl.png)
+## 23. 战斗天使
 
-## 21. Mavis
+![战斗天使](/assets/sb_character_card_1_battle-healer.png)
 
-![Mavis](/assets/sb_character_card_1_mavis.png)
+## 24. 国王
 
-## 22. Wizard
+![国王](/assets/sb_character_card_1_royale-king.png)
 
-![Wizard](/assets/sb_character_card_1_wizard.png)
+## 25. 普利莫
 
-## 23. Battle Healer
+![普利莫](/assets/sb_character_card_1_el-primo.png)
 
-![Battle Healer](/assets/sb_character_card_1_battle-healer.png)
+## 26. 格雷格
 
-## 24. Royale King
+![格雷格](/assets/sb_character_card_1_greg.png)
 
-![Royale King](/assets/sb_character_card_1_royale-king.png)
+## 27. 商人
 
-## 25. El Primo
+![商人](/assets/sb_character_card_1_trader.png)
 
-![El Primo](/assets/sb_character_card_1_el-primo.png)
+## 28. 妮塔
 
-## 26. Greg
+![妮塔](/assets/sb_character_card_1_nita.png)
 
-![Greg](/assets/sb_character_card_1_greg.png)
+## 29. 爆破麦克
 
-## 27. Trader
-
-![Trader](/assets/sb_character_card_1_trader.png)
-
-## 28. Nita
-
-![Nita](/assets/sb_character_card_1_nita.png)
-
-## 29. Dynamike
-
-![Dynamike](/assets/sb_character_card_1_dynamike.png)
+![爆破麦克](/assets/sb_character_card_1_dynamike.png)

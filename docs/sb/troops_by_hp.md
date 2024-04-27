@@ -1,4 +1,4 @@
-# Troops Sorted By HP
+# 按血量排序
 
 <style>
     .heatMapTHP {
@@ -44,7 +44,7 @@
 
 <div class="heatMapTHP">
 
-|   | Troop | HP | DPS | 
+|   | 部队 | 血量 | 秒伤 | 
 | -- | -- | -- | -- |
 | <img src="../assets/sb_emote_mega-el-primo.png"  width="40" height="40" /> | 虎王普里莫 | 11000 | 237 |
 | <img src="../assets/sb_emote_mega-chicken.png"  width="40" height="40" /> | 蛟龙母鸡 | 8000 | 273 |
