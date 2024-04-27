@@ -2,46 +2,46 @@
 outline: 了解你的周围环境
 ---
 
-# 小队毁灭者地图
+# 爆裂小队地图
 
 这是所有可用地图的快速列表。
 
-## [绿色世界](/sb/maps_w1.html)
+## [绿野世界](/sb/maps_w1.html)
 
-### [强击山谷](/sb/maps_w1.html#buster-valley)
+### [狂野山谷](/sb/maps_w1.html#buster-valley)
 
-### [隆隆草地](/sb/maps_w1.html#rumble-meadow)
+### [乱斗草地](/sb/maps_w1.html#rumble-meadow)
 
-### [曲折小径](/sb/maps_w1.html#twisting-trails)
+### [扭曲小径](/sb/maps_w1.html#twisting-trails)
 
 ## [沙漠世界](/sb/maps_w2.html)
 
-### [尘土荒原](/sb/maps_w2.html#dusty-badlands)
+### [尘埃荒原](/sb/maps_w2.html#dusty-badlands)
 
-### [麻烦峡谷](/sb/maps_w2.html#troublesome-gulch)
+### [纷扰峡谷](/sb/maps_w2.html#troublesome-gulch)
 
-### [沙坑](/sb/maps_w2.html#the-sand-pit)
+### [黄沙陷坑](/sb/maps_w2.html#the-sand-pit)
 
-## [皇家世界](/sb/maps_w3.html)
+## [皇室世界](/sb/maps_w3.html)
 
-### [试炼场](/sb/maps_w3.html#proving-grounds)
+### [试炼之地](/sb/maps_w3.html#proving-grounds)
 
-### [皇家混战场](/sb/maps_w3.html#royal-rumbleyard)
+### [皇室斗技场](/sb/maps_w3.html#royal-rumbleyard)
 
-### [钢铁试练](/sb/maps_w3.html#steel-gauntlet)
+### [钢铁手套](/sb/maps_w3.html#steel-gauntlet)
 
-## [海滩世界](/sb/maps_w4.html)
+## [海岛世界](/sb/maps_w4.html)
 
-### [入侵岛屿](/sb/maps_w4.html#invasion-island)
+### [强攻海岛](/sb/maps_w4.html#invasion-island)
 
-### [水道突击](/sb/maps_w4.html#waterway-blitz)
+### [闪电海峡](/sb/maps_w4.html#waterway-blitz)
 
-### [拾荒者之岸](/sb/maps_w4.html#scavengers-shore)
+### [拾荒海滩](/sb/maps_w4.html#scavengers-shore)
 
-## [绿色世界（终局）](/sb/maps_w1e.html)
+## [绿野世界（终局）](/sb/maps_w1e.html)
 
-### [强击山谷](/sb/maps_w1e.html#buster-valley)
+### [狂野山谷](/sb/maps_w1e.html#buster-valley)
 
-### [隆隆草地](/sb/maps_w1e.html#rumble-meadow)
+### [乱斗草地](/sb/maps_w1e.html#rumble-meadow)
 
-### [曲折小径](/sb/maps_w1e.html#twisting-trails)
+### [扭曲小径](/sb/maps_w1e.html#twisting-trails)

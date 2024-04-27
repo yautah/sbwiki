@@ -22,16 +22,21 @@ export default defineConfig({
       //{ text: "CR", link: "/cr/" },
     ],
 
+    docFooter:{
+      prev: '上一页',
+      next: '下一页',
+    },
+
     sidebar: [
       {
         text: "地图",
         link: "/sb/maps",
         items: [
-          { text: "绿色世界", link: "/sb/maps_w1" },
+          { text: "绿野世界", link: "/sb/maps_w1" },
           { text: "沙漠世界", link: "/sb/maps_w2" },
-          { text: "皇家世界", link: "/sb/maps_w3" },
-          { text: "海滩世界", link: "/sb/maps_w4" },
-          { text: "绿色世界（终局）", link: "/sb/maps_w1e" },
+          { text: "皇室世界", link: "/sb/maps_w3" },
+          { text: "海岛世界", link: "/sb/maps_w4" },
+          { text: "绿野世界（终局）", link: "/sb/maps_w1e" },
         ],
       },
       {
@@ -39,8 +44,8 @@ export default defineConfig({
         link: "/sb/troops",
         items: [
           { text: "信息卡片", link: "/sb/troops_cards" },
-          { text: "按DPS排序", link: "/sb/troops_by_dps" },
-          { text: "按HP排序", link: "/sb/troops_by_hp" },
+          { text: "按伤害排序", link: "/sb/troops_by_dps" },
+          { text: "按血量排序", link: "/sb/troops_by_hp" },
           {
             text: "融合乘数",
             link: "/sb/troops_fusion_multipliers",

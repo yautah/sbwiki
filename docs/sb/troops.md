@@ -8,7 +8,7 @@
 
 每个世界可解锁的部队数量如下:
 
-## 绿色世界: 12个部队
+## 绿野世界: 12个部队
 
 <div id="banner">
     <div class="" style="display: inline-block;">
@@ -109,7 +109,7 @@
     </div>
 </div>
 
-___
+---
 
 You can browse through all the troops in the following ways:
 

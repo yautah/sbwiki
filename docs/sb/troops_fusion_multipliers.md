@@ -1,19 +1,18 @@
 ---
-outline: understand your surroundings
+outline: 理解你的周围环境
 ---
 
-# Fusion Multipliers
+# 融合加成
 
-Whenever you join 3 troops together into a Fusion, you end up with a troop that is stronger than each of the previous ones, but not exactly 3 times stronger.
+当你将3个部队合并成一个融合部队时，你会得到一个比之前的部队更强大的部队，但不完全是3倍的强度。
 
-Generally, Fusion stats are:
+通常，融合的属性加成如下：
 
-- 3.50x Hit Points (+250%)
-- 2.05x Damage (+105%)
+- 3.50倍的生命值（+250%）
+- 2.05倍的伤害（+105%）
+治疗效果通常比伤害增加更多。
 
-Healing effects are usually increased more than damage.
-
-Here's a full list with the specific buff of each Fusion:
+这是每个融合部队具体加成的完整列表：
 
 <style>
     .heatMap {

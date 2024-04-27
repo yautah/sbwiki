@@ -46,34 +46,34 @@
 
 |   | Troop | HP | DPS | 
 | -- | -- | -- | -- |
-| <img src="../assets/sb_emote_mega-chicken.png"  width="40" height="40" /> | Mega Chicken | 8000 | 273 |
-| <img src="../assets/sb_emote_mega-el-primo.png"  width="40" height="40" /> | Mega El Primo | 11000 | 237 |
-| <img src="../assets/sb_emote_penny.png"  width="40" height="40" /> | Penny | 1100 | 219 |
-| <img src="../assets/sb_emote_witch.png"  width="40" height="40" /> | Witch | 1000 | 212 |
-| <img src="../assets/sb_emote_colt.png"  width="40" height="40" /> | Colt | 750 | 190 |
-| <img src="../assets/sb_emote_bea.png"  width="40" height="40" /> | Bea | 900 | 189 |
-| <img src="../assets/sb_emote_max.png"  width="40" height="40" /> | Max | 1100 | 188 |
-| <img src="../assets/sb_emote_chicken.png"  width="40" height="40" /> | Chicken | 1000 | 182 |
-| <img src="../assets/sb_emote_mortis.png"  width="40" height="40" /> | Mortis | 1700 | 165 |
-| <img src="../assets/sb_emote_pam.png"  width="40" height="40" /> | Pam | 1200 | 162 |
-| <img src="../assets/sb_emote_goblin.png"  width="40" height="40" /> | Goblin | 1200 | 159 |
-| <img src="../assets/sb_emote_archer-queen.png"  width="40" height="40" /> | Archer Queen | 1200 | 154 |
-| <img src="../assets/sb_emote_hog-rider.png"  width="40" height="40" /> | Hog Rider | 1500 | 142 |
-| <img src="../assets/sb_emote_shelly.png"  width="40" height="40" /> | Shelly | 1300 | 141 |
-| <img src="../assets/sb_emote_barbarian-king.png"  width="40" height="40" /> | Barbarian King | 3200 | 139 |
-| <img src="../assets/sb_emote_barbarian.png"  width="40" height="40" /> | Barbarian | 1400 | 132 |
-| <img src="../assets/sb_emote_bo.png"  width="40" height="40" /> | Bo | 700 | 120 |
-| <img src="../assets/sb_emote_heavy.png"  width="40" height="40" /> | Heavy | 2300 | 120 |
-| <img src="../assets/sb_emote_medic.png"  width="40" height="40" /> | Medic | 900 | 119 |
-| <img src="../assets/sb_emote_tank-girl.png"  width="40" height="40" /> | Tank Girl | 1200 | 118 |
-| <img src="../assets/sb_emote_mavis.png"  width="40" height="40" /> | Mavis | 1300 | 115 |
-| <img src="../assets/sb_emote_wizard.png"  width="40" height="40" /> | Wizard | 850 | 115 |
-| <img src="../assets/sb_emote_battle-healer.png"  width="40" height="40" /> | Battle Healer | 1800 | 113 |
-| <img src="../assets/sb_emote_royale-king.png"  width="40" height="40" /> | Royale King | 2200 | 110 |
-| <img src="../assets/sb_emote_el-primo.png"  width="40" height="40" /> | El Primo | 2800 | 95 |
-| <img src="../assets/sb_emote_greg.png"  width="40" height="40" /> | Greg | 1300 | 94 |
-| <img src="../assets/sb_emote_trader.png"  width="40" height="40" /> | Trader | 1600 | 94 |
-| <img src="../assets/sb_emote_nita.png"  width="40" height="40" /> | Nita | 1200 | 82 |
-| <img src="../assets/sb_emote_dynamike.png"  width="40" height="40" /> | Dynamike | 800 | 58 |
+| <img src="../assets/sb_emote_mega-chicken.png"  width="40" height="40" /> | 蛟龙母鸡 | 8000 | 273 |
+| <img src="../assets/sb_emote_mega-el-primo.png"  width="40" height="40" /> | 虎王普里莫 | 11000 | 237 |
+| <img src="../assets/sb_emote_penny.png"  width="40" height="40" /> | 潘妮 | 1100 | 219 |
+| <img src="../assets/sb_emote_witch.png"  width="40" height="40" /> | 女巫 | 1000 | 212 |
+| <img src="../assets/sb_emote_colt.png"  width="40" height="40" /> | 柯尔特 | 750 | 190 |
+| <img src="../assets/sb_emote_bea.png"  width="40" height="40" /> | 贝亚 | 900 | 189 |
+| <img src="../assets/sb_emote_max.png"  width="40" height="40" /> | 麦克斯 | 1100 | 188 |
+| <img src="../assets/sb_emote_chicken.png"  width="40" height="40" /> | 母鸡 | 1000 | 182 |
+| <img src="../assets/sb_emote_mortis.png"  width="40" height="40" /> | 莫提斯 | 1700 | 165 |
+| <img src="../assets/sb_emote_pam.png"  width="40" height="40" /> | 帕姆 | 1200 | 162 |
+| <img src="../assets/sb_emote_goblin.png"  width="40" height="40" /> | 哥布林 | 1200 | 159 |
+| <img src="../assets/sb_emote_archer-queen.png"  width="40" height="40" /> | 弓箭女皇 | 1200 | 154 |
+| <img src="../assets/sb_emote_hog-rider.png"  width="40" height="40" /> | 野猪骑士 | 1500 | 142 |
+| <img src="../assets/sb_emote_shelly.png"  width="40" height="40" /> | 雪莉 | 1300 | 141 |
+| <img src="../assets/sb_emote_barbarian-king.png"  width="40" height="40" /> | 野蛮人之王 | 3200 | 139 |
+| <img src="../assets/sb_emote_barbarian.png"  width="40" height="40" /> | 野蛮人 | 1400 | 132 |
+| <img src="../assets/sb_emote_bo.png"  width="40" height="40" /> | 阿渤 | 700 | 120 |
+| <img src="../assets/sb_emote_heavy.png"  width="40" height="40" /> | 重机枪手 | 2300 | 120 |
+| <img src="../assets/sb_emote_medic.png"  width="40" height="40" /> | 医师 | 900 | 119 |
+| <img src="../assets/sb_emote_tank-girl.png"  width="40" height="40" /> | 坦克驾驶员 | 1200 | 118 |
+| <img src="../assets/sb_emote_mavis.png"  width="40" height="40" /> | 梅维斯 | 1300 | 115 |
+| <img src="../assets/sb_emote_wizard.png"  width="40" height="40" /> | 法师 | 850 | 115 |
+| <img src="../assets/sb_emote_battle-healer.png"  width="40" height="40" /> | 战斗天使 | 1800 | 113 |
+| <img src="../assets/sb_emote_royale-king.png"  width="40" height="40" /> | 国王 | 2200 | 110 |
+| <img src="../assets/sb_emote_el-primo.png"  width="40" height="40" /> | 普利莫 | 2800 | 95 |
+| <img src="../assets/sb_emote_greg.png"  width="40" height="40" /> | 格雷格 | 1300 | 94 |
+| <img src="../assets/sb_emote_trader.png"  width="40" height="40" /> | 商人 | 1600 | 94 |
+| <img src="../assets/sb_emote_nita.png"  width="40" height="40" /> | 妮塔 | 1200 | 82 |
+| <img src="../assets/sb_emote_dynamike.png"  width="40" height="40" /> | 爆破麦克 | 800 | 58 |
 
 </div>

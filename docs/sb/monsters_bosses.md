@@ -21,9 +21,9 @@
 
 |   | 怪物 | 生命值 | 基础DPS | 
 | -- | -- | -- | -- |
-| <img src="../assets/sb_enemies_1_chest-menace.png"  width="40" height="40" /> | 宝箱威胁 | 25000 | 67 |
+| <img src="../assets/sb_enemies_1_chest-menace.png"  width="40" height="40" /> | 大魔王宝箱 | 25000 | 67 |
 | <img src="../assets/sb_enemies_1_mega-mole.png"  width="40" height="40" /> | 巨型鼹鼠 | 18000 | 333 |
-| <img src="../assets/sb_enemies_1_tree-giant.png"  width="40" height="40" /> | 树巨人 | 12000 | 75 |
+| <img src="../assets/sb_enemies_1_tree-giant.png"  width="40" height="40" /> | 大树巨人 | 12000 | 75 |
 | <img src="../assets/sb_enemies_1_kaiju.png"  width="40" height="40" /> | 怪兽 | 10000 | 75 |
 
 </div>

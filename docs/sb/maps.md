@@ -2,16 +2,16 @@
 outline: 了解你的周围环境
 ---
 
-# 小队毁灭者地图
+# 爆裂小队地图
 
 软启动将发布4个不同的世界，每个世界有3个不同的地图。
 
-除此之外，绿色世界地图有不同的变体，以实现更复杂的机制。其中包括梅维斯的胡萝卜和比亚以及坦克的工具生成点。因此，总共有15个主要地图可供游玩。
+除此之外，绿野世界地图有不同的变体，以实现更复杂的机制。其中包括梅维斯的胡萝卜和比亚以及坦克的工具生成点。因此，总共有15个主要地图可供游玩。
 
 ## 世界地图
 
 [<img src="/assets/sb_world_card_1_w1.png"
-      alt="绿色世界"
+      alt="绿野世界"
       style="width:300px;height:200px ;">](/sb/maps_w1)
 
 [<img src="/assets/sb_world_card_1_w2.png"
@@ -19,15 +19,15 @@ outline: 了解你的周围环境
       style="width:300px;height:200px ;">](/sb/maps_w2)
 
 [<img src="/assets/sb_world_card_1_w3.png"
-      alt="皇家世界"
+      alt="皇室世界"
       style="width:300px;height:200px ;">](/sb/maps_w3)
 
 [<img src="/assets/sb_world_card_1_w4.png"
-      alt="海滩世界"
+      alt="海岛世界"
       style="width:300px;height:200px ;">](/sb/maps_w4)
 
 [<img src="/assets/sb_world_card_1_w1e.png"
-      alt="绿色世界终局"
+      alt="绿野世界终局"
       style="width:300px;height:200px ;">](/sb/maps_w1e)
 
 ## 图块类型

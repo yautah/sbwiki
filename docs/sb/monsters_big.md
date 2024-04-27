@@ -26,14 +26,14 @@
 
 |   | 怪物 | 生命值 | 基础DPS | 
 | -- | -- | -- | -- |
-| <img src="../assets/sb_enemies_1_rain-maker.png"  width="40" height="40" /> | 雨神 | 8000 | 20 |
-| <img src="../assets/sb_enemies_1_elixir-golem.png"  width="40" height="40" /> | 药水魔像 | 7500 | 25 |
-| <img src="../assets/sb_enemies_1_boss-robot.png"  width="40" height="40" /> | Boss 机器人 | 6000 | 25 |
-| <img src="../assets/sb_enemies_1_golem.png"  width="40" height="40" /> | 魔像 | 6000 | 50 |
-| <img src="../assets/sb_enemies_1_mega-knight.png"  width="40" height="40" /> | 巨型骑士 | 6000 | 35 |
-| <img src="../assets/sb_enemies_1_baby-dragon.png"  width="40" height="40" /> | 幼龙 | 5000 | 76 |
-| <img src="../assets/sb_enemies_1_giant-skeleton.png"  width="40" height="40" /> | 巨型骷髅 | 5000 | 80 |
-| <img src="../assets/sb_enemies_1_mech.png"  width="40" height="40" /> | 机械人 | 5000 | 80 |
-| <img src="../assets/sb_enemies_1_scorcher.png"  width="40" height="40" /> | 烈焰巨兽 | 5000 | 50 |
+| <img src="../assets/sb_enemies_1_rain-maker.png"  width="40" height="40" /> | 弹雨战车 | 8000 | 20 |
+| <img src="../assets/sb_enemies_1_elixir-golem.png"  width="40" height="40" /> | 圣水戈仑 | 7500 | 25 |
+| <img src="../assets/sb_enemies_1_boss-robot.png"  width="40" height="40" /> | 机器人首领 | 6000 | 25 |
+| <img src="../assets/sb_enemies_1_golem.png"  width="40" height="40" /> | 戈仑石人 | 6000 | 50 |
+| <img src="../assets/sb_enemies_1_mega-knight.png"  width="40" height="40" /> | 超级骑士 | 6000 | 35 |
+| <img src="../assets/sb_enemies_1_baby-dragon.png"  width="40" height="40" /> | 龙宝宝 | 5000 | 76 |
+| <img src="../assets/sb_enemies_1_giant-skeleton.png"  width="40" height="40" /> | 大骷髅 | 5000 | 80 |
+| <img src="../assets/sb_enemies_1_mech.png"  width="40" height="40" /> | 机甲 | 5000 | 80 |
+| <img src="../assets/sb_enemies_1_scorcher.png"  width="40" height="40" /> | 烈焰战车 | 5000 | 50 |
 
 </div>

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "da282b932770a26a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed362bcb4792661b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac69335f18de49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sb/troops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8b4b0f42ef4406b",
+    "type": "split",
+    "children": [
+      {
+        "id": "581a2de67904b31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6654c0f4624e85f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d41361d43cff6f2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33a2bcdcb6e73122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc485fccd629b5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d181f3d5c06ad871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab9e09661abc40b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sb/troops.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70e175a7dbe10589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sb/troops.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7833c9a6e939454a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cde3a5293fdde502",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sb/troops.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bac69335f18de49b",
+  "lastOpenFiles": [
+    "sb/maps_all.md",
+    "sb/maps.md",
+    "index.md",
+    "sb/troops_cards.md",
+    "sb/troops.md",
+    "sb/maps_w1e.md",
+    "sb/maps_w2.md",
+    "sb/maps_w1.md",
+    "toc.md"
+  ]
+}
