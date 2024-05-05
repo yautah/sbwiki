@@ -2,13 +2,13 @@
 大纲: 了解你的环境
 ---
 
-# 爆裂小队部队
+# 爆裂小队角色
 
-在软启动中，将发布27个普通部队和2个超级部队，总共29个。
+在软启动中，将发布27个普通角色和2个超级角色，总共29个。
 
-每个世界可解锁的部队数量如下:
+每个世界可解锁的角色数量如下:
 
-## 绿野世界: 12个部队
+## 绿野世界: 12个角色
 
 <div id="banner">
     <div class="" style="display: inline-block;">
@@ -49,7 +49,7 @@
     </div>
 </div>
 
-## Desert World: 6 Troops
+## 荒漠世界: 6个角色
 
 <div id="banner">
     <div class="" style="display: inline-block;">
@@ -72,7 +72,7 @@
     </div>
 </div>
 
-## Royal World: 6 Troops
+## 皇室世界: 6个角色
 
 <div id="banner">
     <div class="" style="display: inline-block;">
@@ -95,7 +95,7 @@
     </div>
 </div>
 
-## Beach World: 3 Troops
+## 海岛世界: 3个角色
 
 <div id="banner">
     <div class="" style="display: inline-block;">
@@ -111,10 +111,10 @@
 
 ---
 
-You can browse through all the troops in the following ways:
+你可以查看更多有关角色的信息
 
-[**Troop Info Cards**](/sb/troops_cards)
+[**角色信息**](/sb/troops_cards)
 
-[**Damage Per Second Ranking**](/sb/troops_by_dps)
+[**角色伤害排行**](/sb/troops_by_dps)
 
-[**Hit Points Ranking**](/sb/troops_by_hp)
+[**角色生命排行**](/sb/troops_by_hp)

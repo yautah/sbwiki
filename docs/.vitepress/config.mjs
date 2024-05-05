@@ -62,6 +62,20 @@ export default defineConfig({
           { text: "Boss怪物", link: "/sb/monsters_bosses.html" },
         ],
       },
+      {
+        "text": "更多内容",
+        "link": "/sb/more_stuff",
+        "collapsed": false,
+        "items": [
+        { "text": "宝箱周期", "link": "/sb/chest_cycle.html" },
+        { "text": "宝箱尺寸", "link": "/sb/chest_sizes.html" },
+        { "text": "宝箱价格", "link": "/sb/chest_prices.html" },
+        { "text": "世界进度", "link": "/sb/progression_worlds.html" },
+        { "text": "超级掉落机会", "link": "/sb/mega_chances.html" },
+        { "text": "一般提示", "link": "/sb/tips.html" },
+        { "text": "其他资源", "link": "/sb/resources.html" }
+        ]
+        }
     ],
 
     socialLinks: [
