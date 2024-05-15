@@ -12,6 +12,9 @@ export default defineConfig({
   description: "爆裂小队速查工具",
   base: "/sbwiki/",
   appearance: "dark",
+  search: {
+    provider: 'local'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
@@ -21,7 +24,9 @@ export default defineConfig({
       //{ text: "B", link: "/sb/" },
       //{ text: "CR", link: "/cr/" },
     ],
-
+    sidebarMenuLabel:"菜单",
+    returnToTopLabel:"回到顶部",
+    darkModeSwitchLabel: "夜间模式",
     docFooter:{
       prev: '上一页',
       next: '下一页',
@@ -44,10 +49,10 @@ export default defineConfig({
         link: "/sb/troops",
         items: [
           { text: "信息卡片", link: "/sb/troops_cards" },
-          { text: "按伤害排序", link: "/sb/troops_by_dps" },
-          { text: "按血量排序", link: "/sb/troops_by_hp" },
+          { text: "伤害排行", link: "/sb/troops_by_dps" },
+          { text: "血量排行", link: "/sb/troops_by_hp" },
           {
-            text: "融合乘数",
+            text: "合体加成",
             link: "/sb/troops_fusion_multipliers",
           },
         ],
@@ -60,6 +65,7 @@ export default defineConfig({
           { text: "中型怪物", link: "/sb/monsters_medium.html" },
           { text: "大型怪物", link: "/sb/monsters_big.html" },
           { text: "Boss怪物", link: "/sb/monsters_bosses.html" },
+          { text: '全部怪物', link: '/sb/monsters_all.html' }
         ],
       },
       {
@@ -67,11 +73,11 @@ export default defineConfig({
         "link": "/sb/more_stuff",
         "collapsed": false,
         "items": [
-        { "text": "宝箱周期", "link": "/sb/chest_cycle.html" },
+        { "text": "宝箱循环", "link": "/sb/chest_cycle.html" },
         { "text": "宝箱尺寸", "link": "/sb/chest_sizes.html" },
         { "text": "宝箱价格", "link": "/sb/chest_prices.html" },
-        { "text": "世界进度", "link": "/sb/progression_worlds.html" },
-        { "text": "超级掉落机会", "link": "/sb/mega_chances.html" },
+        { "text": "征程进度", "link": "/sb/progression_worlds.html" },
+        { "text": "超级部队几率", "link": "/sb/mega_chances.html" },
         { "text": "一般提示", "link": "/sb/tips.html" },
         { "text": "其他资源", "link": "/sb/resources.html" }
         ]
@@ -84,6 +90,10 @@ export default defineConfig({
       { icon: "bilibili", link: "https://space.bilibili.com/44441533" },
       { icon: "github", link: "https://github.com/yautah" },
     ],
+    footer: {
+      message: '<a href="https://supercell.com/en/fan-content-policy/">本站数据来源自 @alpe | Royaleapi，对前人的工作表示最高的致敬！</a>',
+      copyright: 'Copyright © 2024 Xiaomi. All rights reserved.'
+    }
   },
 });
 
