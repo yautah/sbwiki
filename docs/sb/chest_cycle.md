@@ -93,7 +93,7 @@
 
 <div class="heatmapChestCycle">
 
-| Index | Icon | Rarity | 
+| 编号 | 宝箱 | 稀有度 | 
 | -- | -- | -- |
 | 1 | <img src="../assets/chest_icon_普通.png"  width="40" height="40" /> | 普通 |
 | 2 | <img src="../assets/chest_icon_稀有.png"  width="40" height="40" /> | 稀有 |
