@@ -78,7 +78,7 @@ export default defineConfig({
         { "text": "宝箱价格", "link": "/sb/chest_prices.html" },
         { "text": "征程进度", "link": "/sb/progression_worlds.html" },
         { "text": "超级部队几率", "link": "/sb/mega_chances.html" },
-        { "text": "一般提示", "link": "/sb/tips.html" },
+        { "text": "更多技巧", "link": "/sb/tips.html" },
         { "text": "其他资源", "link": "/sb/resources.html" }
         ]
         }

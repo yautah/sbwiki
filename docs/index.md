@@ -27,20 +27,10 @@ features:
     details: 查看所有敌人和Boss的统计数据
     link: /sb/monsters
   - icon:
-      src: /appicon_sb_2cs.png
-    title: 超级部队几率
-    details: Probability to get Mega troops from a chest during battles.
-    link: /sb/mega_chances
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: 常用技巧
-    details: Do you know all of them? 
-    link: /sb/tips
-  - icon:
-      src: /appicon_sb_2cs.png
-    title: 更多资源
-    details: Several links, tools and resources to external pages.
-    link: /sb/resources
+      src: /chest_imposters_mod.png
+    title: 宝箱查询
+    details: 查询你即将到来的宝箱
+    link: https://yautah.github.io/sb-chests/
 ---
 
 <style>

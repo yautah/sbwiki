@@ -47,18 +47,18 @@
 
 <div class="heatMapCSP">
 
-| | Placement | Bonus Taps | 
+| | 战斗排名 | 奖励点击 | 
 | -- | -- | -- |
-| <img src="../assets/sb_placements_1.png"  width="70" height="36" /> | First | 4 Taps |
-| <img src="../assets/sb_placements_2.png"  width="70" height="36" /> | Second | 4 Taps |
-| <img src="../assets/sb_placements_3.png"  width="70" height="36" /> | Third | 4 Taps |
-| <img src="../assets/sb_placements_4.png"  width="70" height="36" /> | Fourth | 3 Taps |
-| <img src="../assets/sb_placements_5.png"  width="70" height="36" /> | Fifth | 3 Taps |
-| <img src="../assets/sb_placements_6.png"  width="70" height="36" /> | Sixth | 3 Taps |
-| <img src="../assets/sb_placements_7.png"  width="70" height="36" /> | Seventh | 3 Taps |
-| <img src="../assets/sb_placements_8.png"  width="70" height="36" /> | Eighth | 3 Taps |
-| <img src="../assets/sb_placements_9.png"  width="70" height="36" /> | Ninth | 2 Taps |
-| <img src="../assets/sb_placements_10.png"  width="70" height="36" /> | Tenth | 2 Taps |
+| <img src="../assets/sb_placements_1.png"  width="70" height="36" /> | 1 | 4 点击 |
+| <img src="../assets/sb_placements_2.png"  width="70" height="36" /> | 2 | 4 点击 |
+| <img src="../assets/sb_placements_3.png"  width="70" height="36" /> | 3 | 4 点击 |
+| <img src="../assets/sb_placements_4.png"  width="70" height="36" /> | 4 | 3 点击 |
+| <img src="../assets/sb_placements_5.png"  width="70" height="36" /> | 5 | 3 点击 |
+| <img src="../assets/sb_placements_6.png"  width="70" height="36" /> | 6 | 3 点击 |
+| <img src="../assets/sb_placements_7.png"  width="70" height="36" /> | 7 | 3 点击 |
+| <img src="../assets/sb_placements_8.png"  width="70" height="36" /> | 8 | 3 点击 |
+| <img src="../assets/sb_placements_9.png"  width="70" height="36" /> | 9 | 2 点击 |
+| <img src="../assets/sb_placements_10.png"  width="70" height="36" /> | 10 | 2 点击 |
 
 </div>
 
@@ -90,19 +90,19 @@
 
 <div class="heatMapCSS">
 
-| | Streak Size | Bonus Taps | 
+| | 连胜盘数 | 奖励点击 | 
 | -- | -- | -- |
-| <img src="../assets/sb_winstreak_broken.png"  width="40" height="40" /> | 0 wins | 0 Taps |
-| <img src="../assets/sb_winstreak_0001.png"  width="40" height="40" /> | 1 win | 0 Taps |
-| <img src="../assets/sb_winstreak_0002.png"  width="40" height="40" /> | 2 wins | 1 Tap |
-| <img src="../assets/sb_winstreak_0003.png"  width="40" height="40" /> | 3 wins | 1 Tap |
-| <img src="../assets/sb_winstreak_0004.png"  width="40" height="40" /> | 4 wins | 1 Tap |
-| <img src="../assets/sb_winstreak_0005.png"  width="40" height="40" /> | 5 wins | 2 Taps |
-| <img src="../assets/sb_winstreak_0006.png"  width="40" height="40" /> | 6 wins | 2 Taps |
-| <img src="../assets/sb_winstreak_0007.png"  width="40" height="40" /> | 7 wins | 2 Taps |
-| <img src="../assets/sb_winstreak_0008.png"  width="40" height="40" /> | 8 wins | 2 Taps |
-| <img src="../assets/sb_winstreak_0009.png"  width="40" height="40" /> | 9 wins | 2 Taps |
-| <img src="../assets/sb_winstreak_0010_plus.png"  width="40" height="40" /> | 10 wins or more | 3 Taps |
+| <img src="../assets/sb_winstreak_broken.png"  width="40" height="40" /> | 0 连胜 | 0 点击 |
+| <img src="../assets/sb_winstreak_0001.png"  width="40" height="40" /> | 1 连胜 | 0 点击 |
+| <img src="../assets/sb_winstreak_0002.png"  width="40" height="40" /> | 2 连胜 | 1 点击 |
+| <img src="../assets/sb_winstreak_0003.png"  width="40" height="40" /> | 3 连胜 | 1 点击 |
+| <img src="../assets/sb_winstreak_0004.png"  width="40" height="40" /> | 4 连胜 | 1 点击 |
+| <img src="../assets/sb_winstreak_0005.png"  width="40" height="40" /> | 5 连胜 | 2 点击 |
+| <img src="../assets/sb_winstreak_0006.png"  width="40" height="40" /> | 6 连胜 | 2 点击 |
+| <img src="../assets/sb_winstreak_0007.png"  width="40" height="40" /> | 7 连胜 | 2 点击 |
+| <img src="../assets/sb_winstreak_0008.png"  width="40" height="40" /> | 8 连胜 | 2 点击 |
+| <img src="../assets/sb_winstreak_0009.png"  width="40" height="40" /> | 9 连胜 | 2 点击 |
+| <img src="../assets/sb_winstreak_0010_plus.png"  width="40" height="40" /> | 10 连胜以上 | 3 点击 |
 
 </div>
 
